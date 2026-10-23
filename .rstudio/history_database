@@ -1,0 +1,24 @@
+1792658872484:version
+1792658899111:2+2
+1792678417026:# Display the last 6 rows
+1792678417069:tail(data)
+1792678650407:# 1. Import the CSV dataset
+1792678650454:data <- read.csv(file.choose())
+1792685582536:library(abind)
+1792685583721:library(AER)
+1792685585786:library(arrow)
+1792685586629:library(arrow)
+1792685587556:library(askpass)
+1792685588487:library(assertthat)
+1792685591149:library(base64enc)
+1792685592304:library(backports)
+1792685593615:library(BH)
+1792685594761:library(BiocManager)
+1792685596136:library(bit)
+1792685614990:install.packages("p2distance")
+1792685633951:install.packages("h2o")
+1792685833966:# 2. Display the dataset
+1792685834007:print(data)
+1792685894145:install.packages("csvread")
+1792685952794:# 3. Display first 6 rows
+1792685952836:head(data)

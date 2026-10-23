@@ -1,0 +1,16 @@
+Test_ID,Name,Age,City,Email,Department,Salary_INR,Status
+TC001,Aarav Sharma,24,Bengaluru,aarav@example.com,QA,45000,Active
+TC002,Priya Patel,29,Mumbai,priya@example.com,Data Science,72000,Active
+TC003,Rahul Kumar,35,Delhi,rahul@example.com,Engineering,68000,Inactive
+TC004,Sneha Reddy,27,Hyderabad,sneha@example.com,QA,52000,Active
+TC005,Arjun Mehta,42,Pune,arjun@example.com,HR,85000,Active
+TC006,Ananya Das,31,Chennai,ananya@example.com,Engineering,63000,Inactive
+TC007,Vikram Singh,38,Kolkata,vikram@example.com,Support,58000,Active
+TC008,Kavya Nair,22,Bengaluru,kavya@example.com,Data Science,48000,Active
+TC009,Rohan Gupta,46,Jaipur,rohan@example.com,QA,91000,Active
+TC010,Meera Joshi,33,Ahmedabad,meera@example.com,Finance,67000,Inactive
+TC011,Ishaan Verma,26,Pune,ishaan@example.com,Support,50000,Active
+TC012,Diya Shah,40,Mumbai,diya@example.com,HR,78000,Active
+TC013,Karan Rao,19,Delhi,karan@example.com,Engineering,42000,Inactive
+TC014,Pooja Iyer,52,Chennai,pooja@example.com,Finance,88000,Active
+TC015,Dev Malhotra,28,Hyderabad,dev@example.com,QA,61000,Active
